@@ -49,8 +49,8 @@ The ALSA Linux driver receives the PCM buffers and pushes them to the audio hard
 Requires Python 3.6+. There are no dependencies to install.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/gparthiv/MODULE-6.git
+cd MODULE-6
 python simulate_flow.py
 ```
 
